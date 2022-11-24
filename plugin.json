@@ -1,0 +1,12 @@
+{
+	"main": "plugin/index.html",
+	"logo": "logo.png",
+	"preload": "preload.js",
+	"features": [
+		{
+		  "code": "conversionTool",
+		  "explain": "支持pdf转office,图片转换,图片抠图等等功能",
+			"cmds":["pdf", "图片","抠图"]
+		}
+	]
+}
